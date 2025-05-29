@@ -1,3 +1,8 @@
+# Checkpoints
+
+https://pan.baidu.com/s/1Zf7nrajUZnjrWC3YhGhpmg 提取码: fp1y 
+
+
 # EMDiffuse
 
 This repository contains the official Pytorch implementation of our paper: **EMDiffuse: A Diffusion-based Deep Learning Method Augmenting Ultrastructural Imaging and Volume Electron Microscopy** accepted by [Nature Communications](https://www.nature.com/articles/s41467-024-49125-z).
